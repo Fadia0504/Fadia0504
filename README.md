@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Fadia0504! 👋
 
-<!--
-**Fadia0504/Fadia0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Informatics Engineering Student**  
+I'm currently studying at Global Institute of Technology and Business, majoring in Informatics Engineering. Passionate about technology, learning new things, and always eager to grow in the world of programming!
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- **Languages:** HTML, CSS, JavaScript, Python, PHP
+- **Learning:** Always on the lookout for the next cool tech to try!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Project
+- [learning-gesture-opencv](https://github.com/Fadia0504/learning-gesture-opencv): Exploring gesture recognition using OpenCV—check it out to see what I've been learning!
+
+## 🏀 Fun Fact
+When I'm not coding, you might find me on the basketball court 🏀
+
+## 📫 Connect with Me
+- Instagram: [@pufffdiaa](https://instagram.com/pufffdiaa)
+
+---
+
+_Thanks for stopping by my profile! Let's connect and learn together!_
