@@ -1,21 +1,5 @@
-# Hi there, I'm Fadia Nurcholifah! 👋
+![Fadia0504's Stats](https://github-readme-stats.vercel.app/api?username=Fadia0504&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-🎓 **Informatics Engineering Student**  
-I'm currently studying at Global Institute of Technology and Business, majoring in Informatics Engineering. Passionate about technology, learning new things, and always eager to grow in the world of programming!
+![Fadia0504's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fadia0504&theme=vue-dark&hide_border=false)
 
-## 🚀 Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, Python, PHP
-- **Learning:** Always on the lookout for the next cool tech to try!
-
-## 🌟 Featured Project
-- [learning-gesture-opencv](https://github.com/Fadia0504/learning-gesture-opencv): Exploring gesture recognition using OpenCV—check it out to see what I've been learning!
-
-## 🏀 Fun Fact
-When I'm not coding, you might find me on the basketball court 🏀
-
-## 📫 Connect with Me
-- Instagram: [@pufffdiaa](https://instagram.com/pufffdiaa)
-
----
-
-_Thanks for stopping by my profile! Let's connect and learn together!_
+![Fadia0504's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadia0504&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
