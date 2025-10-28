@@ -1,4 +1,4 @@
-# Hi there, I'm Fadia0504! 👋
+# Hi there, I'm Fadia Nurcholifah! 👋
 
 🎓 **Informatics Engineering Student**  
 I'm currently studying at Global Institute of Technology and Business, majoring in Informatics Engineering. Passionate about technology, learning new things, and always eager to grow in the world of programming!
