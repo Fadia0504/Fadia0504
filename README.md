@@ -31,12 +31,6 @@ I'm a Computer Science student specializing in Software Engineering with a passi
 - Postman
 - Docker
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadia0504&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadia0504&layout=compact&theme=default&hide_border=true)
-
 ---
 
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
