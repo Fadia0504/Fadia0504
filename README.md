@@ -33,4 +33,10 @@ I'm a Computer Science student specializing in Software Engineering with a passi
 
 ---
 
+<hr>
+
+<img src="https://raw.githubusercontent.com/Fadia0504/Fadia0504/output/snake.svg" alt="Snake animation" />
+
+<hr>
+
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
