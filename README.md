@@ -1,42 +1,19 @@
-# Hi there, I'm Fadia Nurcholifah 👋
+# 💫 About Me:
+Hello! I am an Informatics Engineering student with a concentration in Software Engineering who has a strong interest in technology, especially in web development and UI/UX design. I enjoy learning new things, exploring modern technologies, and developing projects that are not only functional but also visually appealing, responsive, and user-friendly.<br><br>As a Software Engineering student, I am also interested in how systems are developed in a structured, efficient, and scalable way. I enjoy problem solving, system analysis, and collaborating within teams to create innovative and impactful digital solutions.<br><br>Currently, I continue to improve my skills through personal and academic projects, particularly in web development, UI/UX design, and database-based system development. I believe that consistency in learning and practice is the key to becoming a professional software engineer who can adapt to the rapid growth of technology.
 
-## About Me
 
-I'm a Computer Science student specializing in Software Engineering with a passion for building web applications. Currently focused on full-stack development, I enjoy turning ideas into functional and user-friendly solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pufffdiaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FADIA NURCHOLIFAH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadianurkholifah@gmail.com) 
 
-🎓 **Student** - Software Engineering  
-💻 **Full Stack Developer** - Building with modern web technologies  
-🌱 **Currently Learning** - Advanced software architecture and system design  
-🎯 **Goal** - Contributing to impactful open-source projects
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fadia0504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Fadia0504&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fadia0504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tech Stack
-
-**Frontend**
-- JavaScript / TypeScript
-- React.js / Vue.js
-- HTML5, CSS3, Tailwind CSS
-
-**Backend**
-- PHP / Laravel
-- Node.js / Express
-- RESTful APIs
-
-**Database**
-- MySQL / PostgreSQL
-- MongoDB
-
-**Tools & Others**
-- Git & GitHub
-- VS Code
-- Postman
-- Docker
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fadia0504&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-<hr>
-
-<img src="https://raw.githubusercontent.com/Fadia0504/Fadia0504/output/snake.svg" alt="Snake animation" />
-
-<hr>
-
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+[![](https://komarev.com/ghpvc/?username=Fadia0504&icon=0&color=0)](https://visitcount.itsvg.in)
